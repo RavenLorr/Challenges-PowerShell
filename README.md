@@ -69,9 +69,11 @@ Write-Output "All done :)"
 ```
 ## Second Challenge
 
-**First, create** this folder structure.
+**First, create** this folder structure. 
+
 ![Image Not loading](/Image1.png)
-Then create **3 files of each** type: .txt, .png, and .wav, and mix them in the directories (you will have **9 files** in total).
+
+ Then create **3 files of each** type: .txt, .png, and .wav, and mix them in the directories (you will have **9 files** in total).
 
 Once this is done, create a **PowerShell** script that will **move the files** to the correct directory. 
 * [.txt]() -> *Codes*
